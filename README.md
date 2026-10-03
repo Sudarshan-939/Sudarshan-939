@@ -1,158 +1,199 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SUDARSHAN%20%7C%20AI%20%26%20ML%20DEVELOPER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+# SUDARSHAN
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Data+Analyst;Backend+Developer;Python+%7C+Java+%7C+SQL;Building+Real-World+AI+Applications;Always+Learning+%7C+Always+Building"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Data+Analyst;Backend+Developer;Building+Intelligent+Applications;Python+%7C+Java+%7C+SQL;AI+%7C+ML+%7C+Spring+Boot+%7C+RAG" alt="Typing Animation"/>
 
-<p align="center">
-  <a href="https://github.com/Sudarshan-939">
-    <img src="https://komarev.com/ghpvc/?username=Sudarshan-939&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Sudarshan-939?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sudarshan-939?label=Followers&style=for-the-badge&color=blue"/>
-  </a>
-</p>
+<br>
 
----
+<a href="https://github.com/Sudarshan-939">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-# 👋 Hi, I'm Sudarshan
+<a href="https://github.com/Sudarshan-939?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🎓 **B.Tech Student** passionate about building practical software and AI solutions.
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🤖 Interested in **Artificial Intelligence, Machine Learning and Data Analytics**
-
-💻 Experienced with **Python, Java, SQL and Spring Boot**
-
-📊 Interested in turning data into meaningful insights.
-
-🚀 Currently focused on building projects that solve real-world problems.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   AI/ML Developer  •  Data Analyst  •  Backend Developer   │
-│                                                             │
-│   Learn → Build → Deploy → Improve → Repeat                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
-# 🧠 About Me
+## 👋 About Me
 
-- 🔭 Working on **AI/ML and Backend Development projects**
-- 🌱 Currently learning **Advanced Machine Learning, Spring Boot & Data Analytics**
-- 🤖 Interested in **Generative AI, RAG, AI Agents and Automation**
-- 📊 Exploring **Data Analysis and Machine Learning**
-- ☕ Building backend applications using **Java + Spring Boot**
-- 🗄️ Working with **MySQL and REST APIs**
-- 💡 I enjoy converting ideas into working applications
-- 🎯 Goal: Become a strong **AI/ML + Software Developer**
+I am an **AI & Machine Learning Developer and Backend Developer** passionate about building intelligent applications, data-driven solutions, and scalable backend systems.
+
+I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, Data Analytics, and Software Development**.
+
+### Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ✨ Generative AI & LLMs
+- 📚 RAG & Document Intelligence
+- 📊 Data Analytics
+- ☕ Java & Spring Boot
+- 🔗 REST API Development
+- 🗄️ SQL & Database Management
+- ⚙️ AI Automation
+
+Currently focused on building practical projects and continuously improving my skills in **AI, backend development, and data analytics**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### 👨‍💻 Programming
+### Programming & Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,sql&perline=8"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8"/>
 </p>
 
-**Machine Learning • Deep Learning • NLP • RAG • Generative AI • AI Agents**
+**Machine Learning • Deep Learning • NLP • Generative AI • RAG • LLMs • AI Agents**
 
-### 🌐 Backend Development
+### Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&perline=8"/>
 </p>
 
-**Spring Boot • REST APIs • JPA • Hibernate • CRUD Operations**
+**Java • Spring Boot • Spring Data JPA • Hibernate • REST APIs**
 
-### 🗄️ Database
+### Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8"/>
 </p>
 
-### 🧰 Tools
+### Tools & Platforms
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=8"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI / Machine Learning
+## 📄 Document Q&A System
 
-### 🩺 Disease Prediction System
-Machine Learning based application that predicts possible diseases based on user-provided symptoms.
+An AI-powered document question-answering system designed to retrieve and generate answers from uploaded documents using **Retrieval-Augmented Generation (RAG)**.
 
-**Tech:** Python • Machine Learning • Pandas • Scikit-learn
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Sudarshan-939/Disease-Prediction)
+`Python` `LangChain` `Sentence Transformers` `FAISS` `LLMs`
 
----
-
-### 📄 Document Q&A System
-
-An AI-powered document question-answering system using **RAG**, embeddings and vector search to retrieve information from documents.
-
-**Tech:** Python • LangChain • Sentence Transformers • FAISS • LLMs
-
-🔗 [View Repository](https://github.com/Sudarshan-939/Document)
+🔗 **Repository:**  
+https://github.com/Sudarshan-939/Document
 
 ---
 
-### 📑 Document-B
+## 📑 Document-B
 
-Document processing and AI-based information retrieval project.
+An AI/document-processing project focused on extracting and working with information from documents.
 
-**Tech:** Python • NLP • AI • Document Processing
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Sudarshan-939/Document-B)
+`Python` `AI` `NLP` `Document Processing`
+
+🔗 **Repository:**  
+https://github.com/Sudarshan-939/Document-B
 
 ---
 
-# ☕ Backend Development
+## 🩺 Disease Prediction System
 
-### 🎓 Student Management REST API
+Machine-learning based application that predicts possible diseases based on user-provided symptoms.
 
-Backend API for managing student and department information.
+**Tech Stack**
 
-**Tech:** Java • Spring Boot • Spring Data JPA • MySQL • REST API • Postman
+`Python` `Machine Learning` `Pandas` `Scikit-learn`
 
-**Features:**
+🔗 **Repository:**  
+https://github.com/Sudarshan-939/Disease-Prediction
 
-- ✅ GET
-- ✅ POST
-- ✅ PUT
-- ✅ DELETE
+---
+
+## 🎓 Student Management REST API
+
+A backend REST API for managing **students and departments**, built using Java Spring Boot and MySQL.
+
+### Features
+
 - ✅ Student Management
 - ✅ Department Management
+- ✅ GET APIs
+- ✅ POST APIs
+- ✅ PUT APIs
+- ✅ DELETE APIs
+- ✅ MySQL Integration
+- ✅ JPA / Hibernate
 - ✅ Exception Handling
-- ✅ MySQL Database Integration
+- ✅ Postman API Testing
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Postman`
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 Current Focus
+
+```text
+Artificial Intelligence      ████████████████████ 95%
+Machine Learning             ██████████████████   90%
+Python                       ███████████████████  92%
+Backend Development          █████████████████    88%
+Java / Spring Boot           ████████████████     85%
+Data Analytics               ███████████████      82%
+Generative AI / RAG         ████████████████     85%
+```
+
+---
+
+# 🧠 What I'm Learning
+
+```text
+       Artificial Intelligence
+                 │
+                 ▼
+        Machine Learning
+                 │
+                 ▼
+          Generative AI
+                 │
+                 ▼
+             LLMs / RAG
+                 │
+                 ▼
+           AI Applications
+                 │
+                 ▼
+       Backend & REST APIs
+                 │
+                 ▼
+        Real-World Systems
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-939&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-939&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudarshan-939&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-939&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -160,7 +201,19 @@ Backend API for managing student and department information.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudarshan-939&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Sudarshan-939&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sudarshan-939&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+
 </p>
 
 ---
@@ -168,7 +221,9 @@ Backend API for managing student and department information.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshan-939&theme=tokyo-night&hide_border=true&area=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshan-939&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
@@ -176,52 +231,54 @@ Backend API for managing student and department information.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudarshan-939/Sudarshan-939/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+<img src="https://raw.githubusercontent.com/Sudarshan-939/Sudarshan-939/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 💻 My Development Journey
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-RAG Systems
-        ↓
-AI Agents
-        ↓
-Backend Development
-        ↓
-Real-World Applications
+Learning
+   │
+   ▼
+Programming
+   │
+   ├──────────────┐
+   ▼              ▼
+Python           Java
+   │              │
+   ▼              ▼
+AI / ML       Spring Boot
+   │              │
+   └──────┬───────┘
+          ▼
+      Real Projects
+          │
+          ▼
+      Problem Solving
+          │
+          ▼
+     Continuous Growth
 ```
 
 ---
 
-# 📚 Currently Learning
+# 📚 Core Skills
 
-| Area | Technologies |
-|------|--------------|
-| 🤖 AI | Generative AI, LLMs, RAG |
+| Category | Skills |
+|---|---|
+| 👨‍💻 Programming | Python, Java, C++, SQL |
+| 🤖 AI | Artificial Intelligence, Generative AI |
 | 🧠 ML | Machine Learning, Deep Learning |
-| 💻 Backend | Java, Spring Boot |
+| 📄 AI Applications | RAG, NLP, Document Q&A |
+| ☕ Backend | Java, Spring Boot, REST APIs |
 | 🗄️ Database | MySQL, MongoDB |
 | 📊 Analytics | Python, SQL, Data Analysis |
-| 🚀 Deployment | GitHub, Render, Docker |
-
----
-
-# 🏆 Achievements & Activities
-
-- 🧠 Building AI/ML projects
-- 💻 Developing REST APIs using Spring Boot
-- 📊 Working with data and machine learning
-- 🚀 Participating in hackathons
-- 🔧 Building practical software projects
-- 📚 Continuously learning new technologies
+| 🔧 Tools | Git, GitHub, VS Code, Postman |
+| 🚀 Deployment | Render, Docker |
 
 ---
 
@@ -241,18 +298,22 @@ Real-World Applications
 
 ---
 
-# 💡 Developer Quote
+# 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img src="https://komarev.com/ghpvc/?username=Sudarshan-939&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge"/>
+
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 🚀 Building today. Learning every day. Creating the future.
+## 🚀 Learn • Build • Deploy • Innovate
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+### Building Intelligent Solutions with AI & Code
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
